@@ -1,0 +1,13 @@
+parkcode        zion
+season          sum
+runvisitmodel   y
+parkdatafile        nps_parkdata.dat
+airportdatafile     apDat_19.dat
+parkapsdatafile     parkAPs_19.csv
+zonaldatafile       zone_acs_19.dat
+roaddistdatafile    roaddistancematrix.dat
+homelocandmodeoutfile     vishomelocandmode_out.csv
+tripstoandfromparkoutfile tripstoandfrompark_out.csv
+localvmtoutfile           localvmt_out.csv
+
+ 
