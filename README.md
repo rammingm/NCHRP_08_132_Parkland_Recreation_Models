@@ -5,7 +5,7 @@ License
 Contributions and Contact Information
 Acknowledgements
 Project Description
-This project contains the code and documentation developed to apply the model framework develoed during project NCHRP_08_132, "ACCESSING AMERICA’S GREAT OUTDOORS: FORECASTING RECREATIONAL TRAVEL DEMAND" for the Transpotation Research Board of The National Academies of Sciences, Engineering, and Medicine. A detailed description of the model framework and estimation can be found in the project final report. 
+This project contains the code and documentation developed to apply the model framework develoed during project NCHRP_08_132, ACCESSING AMERICA’S GREAT OUTDOORS: FORECASTING RECREATIONAL TRAVEL DEMAND for the Transpotation Research Board of The National Academies of Sciences, Engineering, and Medicine. A detailed description of the model framework and estimation can be found in the project final report. 
 Release Notes
 Release 1.0.0 (June 1, 2023)
 Initial release
