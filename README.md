@@ -1,35 +1,33 @@
-NCHRP 08-132: ACCESSING AMERICA’S GREAT OUTDOORS: FORECASTING RECREATIONAL TRAVEL DEMAND
+List of files
 
-README Outline:
+NCHRP 08-132 Model Implementation Handbook.pdf  
+is a model users handboodk. Documentaton on running the stand-alone version of the model
+is in the last section.
 
-Project Description
+The following files are the Pascal source code (.PAS file), the Lazarus Free Pascal 
+compiler project files (.LPI and .LPS), and the compiled executable (.EXE file). 
 
-License
+nchrp_08_132_model_2.exe
+nchrp_08_132_model_2.lpi
+nchrp_08_132_model_2.lps
+nchrp_08_132_model_2.pas
+ 
+The configuration file that is used by the program is provided as
+nchrp_08-132_model_2_config.txt
 
-Contributions and Contact Information
+The provided input and output data files referenced in the configuration file are:
 
-Acknowledgements
+zone_acs_19.dat
+at_19.dat
+parkAPs_19.csv
+nps_parkdata.dat
+odcardist.dat
+roaddistancematrix.dat
+localvmt_out.csv
+tripstoandfrompark_out.csv
+vishomelocandmode_out.csv
 
-Project Description
+The roadistancematrix.dat file has been zipped to roaddistancematrix.7z to compress the size
+enough for upload and downolad to/from GitHub without usng speicial commands. The file can be
+unzipped using the free package 7-Zip. 
 
-This project contains the code and documentation developed to apply the model framework develoed during project NCHRP_08_132 ACCESSING AMERICA’S GREAT OUTDOORS: FORECASTING RECREATIONAL TRAVEL DEMAND for the Transpotation Research Board of The National Academies of Sciences, Engineering, and Medicine. A detailed description of the model framework and estimation can be found in the project final report
-
-Release Notes
-
-Release 1.0.0 (June 1, 2023)
-
-Initial release
-
-License
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
-Contributions and Contact Information
-
-Authors: Mark Bradley and Theodore Mansfield, RSG, Inc.
-
-Contact Information: mark.bradley@rsginc.com  theodore.mansfield@rsginc.com
-
-Attribution
-
-The National Cooperative Research Program (NCHRP) produces ready-to-implement solutions to the challenges facing transportation professionals. NCHRP is sponsored by the individual state departments of transportation of the American Association of State Highway and Transportation Officials. NCHRP is administered by the Transportation Research Board (TRB), part of the National Academies of Sciences, Engineering, and Medicine, under a Cooperative Agreement with the Federal Highway Administration (FHWA). Any opinions and conclusions expressed or implied in resulting research products are those of the individuals and organizations who performed the research and are not necessarily those of TRB; the National Academies of Sciences, Engineering, and Medicine; FHWA; or NCHRP sponsors. The source code herein was developed under NCHRP Project 08-132 (https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4744).
